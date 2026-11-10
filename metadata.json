@@ -1,0 +1,6 @@
+{
+  "name": "PowerShare MW",
+  "description": "Electricity contribution and utility expense management web application for shared accommodation and rental houses in Malawi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
